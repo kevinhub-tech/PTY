@@ -26,6 +26,19 @@ The project was carried out in a team to form a prototype for the portal. On tha
 
 The developement for the prototypes were achieved after the module was completed and there were several versions resulted due to the iterated process of the project. Firstly, the first ever version of the prototypes were implemented quickly after reviewing the personas and project requirements and here is the sneak peak of it.
 
+<img src="https://github.com/kevinhub-tech/PTY/blob/main/low%20prototype%201.png" width="75%"> </img>
+<img src="https://github.com/kevinhub-tech/PTY/blob/main/low%20prototype%202.png" width="75%"> </img>
+<img src="https://github.com/kevinhub-tech/PTY/blob/main/low%20prototype%203.png" width="75%"> </img>
 
+This was achieved after observing the requirements and calculating the possible outcomes for the prototypes. The prototype was paper-based and it was made entirely from a team with paper tools.
 
- 
+After dealing with paper-based prototypes, the results were defined and the process was accelerated with the decisions to implement the high-quality prototypes. Due to the iteration, there were 3 versions of prototypes as it has been modified due to the user's feedback. Here is the finale to the prototypes for the portal.
+
+<img src="https://github.com/kevinhub-tech/PTY/blob/main/home_page.png" width="75%"></img>
+<img src="https://github.com/kevinhub-tech/PTY/blob/main/job_page.png" width="75%"></img>
+<img src="https://github.com/kevinhub-tech/PTY/blob/main/login.png" width="75%"></img>
+<img src="https://github.com/kevinhub-tech/PTY/blob/main/job_page.png" width="75%"></img>
+
+These are the results that are accomplished at the end of the course and it was developed with **Axure RP** with a particular strategy to carry out this project.
+
+Here is the [link](https://drive.google.com/drive/folders/1gpviBOFwGJv4lWxEcX1xEYkDvxa6Fi2p?usp=sharing) to the full version of the prototypes.
