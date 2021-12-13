@@ -1,2 +1,2 @@
 # PTY
-Prototyping project
+> Prototyping project
